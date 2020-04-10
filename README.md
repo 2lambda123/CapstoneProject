@@ -85,8 +85,8 @@ There are four main screens in this app: **Home Page**, **Media Page**, **UserAc
 ![alt-text](images/home-screen.png "Home Screen") ![alt-text](images/media-screen.png "Media Screen") ![alt-text](images/user-account-screen.png "UserAccount Screen") ![alt-text](images/contact-screen.png "Contact Page")
 
 ## Contributors
-Other two authors of this project:
-:octocat: [Jiahao Li](https://github.com/JiahaoLiENSE) :octocat: [Jinkai Fan](https://github.com/jkfan270)
+Other two authors of this project:  
+:octocat: [Jiahao Li](https://github.com/JiahaoLiENSE)      :octocat: [Jinkai Fan](https://github.com/jkfan270)
 ## Credits
 #### Speacial Thanks:
 - Dr. Timothy Maciag
