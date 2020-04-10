@@ -76,7 +76,14 @@ Build Project
 There are four main screens in this app: **Home Page**, **Media Page**, **UserAccount Page**, **Contact Page**.
  
 ## Credits
-[Xcode 11] (https://developer.apple.com/xcode/) iOS Development for MacOS
-[AWS] (https://aws.amazon.com) Cloud Based Backend
-[Node.js](https://nodejs.org/en/) Library Help for AWS  
-[npm](https://www.npmjs.com) Library Help for AWS
+#### Speacial Thanks:
+- Dr. Timothy Maciag
+  -Capstone professor
+- Steve Serdachny
+  - Owner/ Operator of Serdachny Hockey
+
+#### Software:
+- [Xcode 11](https://developer.apple.com/xcode/) iOS Development for MacOS
+- [AWS](https://aws.amazon.com) Cloud Based Backend
+- [Node.js](https://nodejs.org/en/) Library Help for AWS  
+- [npm](https://www.npmjs.com) Library Help for AWS
