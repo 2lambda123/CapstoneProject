@@ -74,5 +74,6 @@ There are four main screens in this app: **Home Page**, **Media Page**, **UserAc
     - [1st-project-bazaar Scrum](ProcessAndProjectDocumentation/ProcessDocumentation/Presentations/ENSE477/Mar-10th-Bi-Weekly-Scrum.pdf)  
  
 ## Credits
-
-
+Xcode MacOS
+[Node.js](https://nodejs.org/en/)  
+[npm](https://www.npmjs.com)
