@@ -76,6 +76,7 @@ Build Project
 
 ## Usage
 There are four main screens in this app: **Home Page**, **Media Page**, **UserAccount Page**, **Contact Page**.
+![alt-text](images/home-screen.jpg "Home Screen") ![alt-text](images/media-screen "Media Screen") ![alt-text](images/user-account-screen "UserAccount Screen")
  
 ## Credits
 #### Speacial Thanks:
