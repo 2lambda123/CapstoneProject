@@ -1,0 +1,8 @@
+{
+    "CreateAPIKey": 1,
+    "AppSyncApiName": "amplifyDatasource",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": "false",
+    "S3DeploymentBucket": "amplify-serdachnyhockey-amplify-130806-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/9a4340c142ea34def21dfff98d7b6f80f7e6f691"
+}

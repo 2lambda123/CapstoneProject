@@ -1,0 +1,81 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-serdachnyhockey-amplify-130806-authRole",
+            "UnauthRoleArn": "arn:aws:iam::575670665773:role/amplify-serdachnyhockey-amplify-130806-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::575670665773:role/amplify-serdachnyhockey-amplify-130806-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-serdachnyhockey-amplify-130806-deployment",
+            "UnauthRoleName": "amplify-serdachnyhockey-amplify-130806-unauthRole",
+            "StackName": "amplify-serdachnyhockey-amplify-130806",
+            "StackId": "arn:aws:cloudformation:us-west-2:575670665773:stack/amplify-serdachnyhockey-amplify-130806/26c82ee0-5cb9-11ea-8314-02111715c402",
+            "AmplifyAppId": "dmyfhclzz7yyq"
+        }
+    },
+    "api": {
+        "amplifyDatasource": {
+            "service": "AppSync",
+            "providerPlugin": "awscloudformation",
+            "output": {
+                "authConfig": {
+                    "additionalAuthenticationProviders": [],
+                    "defaultAuthentication": {
+                        "authenticationType": "API_KEY",
+                        "apiKeyConfig": {
+                            "description": "",
+                            "apiKeyExpirationDays": 7
+                        }
+                    }
+                },
+                "GraphQLAPIIdOutput": "khtywfnnlrco3ixn2ksylg22h4",
+                "GraphQLAPIEndpointOutput": "https://u4tf3xbxufbdjez5ox2cbzqliq.appsync-api.us-west-2.amazonaws.com/graphql",
+                "GraphQLAPIKeyOutput": "da2-t5znxdp4ibbtjoul7nbkpnjmk4"
+            },
+            "providerMetadata": {
+                "s3TemplateURL": "https://s3.amazonaws.com/amplify-serdachnyhockey-amplify-130806-deployment/amplify-cfn-templates/api/cloudformation-template.json",
+                "logicalId": "apiamplifyDatasource"
+            },
+            "lastPushTimeStamp": "2020-04-10T04:11:05.087Z",
+            "lastPushDirHash": "wv2Tk79Q7X36307Eh4w49iIExpE="
+        }
+    },
+    "auth": {
+        "serdachnyhockey72eed7e1": {
+            "service": "Cognito",
+            "providerPlugin": "awscloudformation",
+            "dependsOn": [],
+            "customAuth": false,
+            "providerMetadata": {
+                "s3TemplateURL": "https://s3.amazonaws.com/amplify-serdachnyhockey-amplify-130806-deployment/amplify-cfn-templates/auth/serdachnyhockey72eed7e1-cloudformation-template.yml",
+                "logicalId": "authserdachnyhockey72eed7e1"
+            },
+            "lastPushTimeStamp": "2020-04-10T04:11:05.101Z",
+            "output": {
+                "AppClientSecret": "pldr1dkp1khm7bble8avftj2496495ncbvivilr2qsgjd7mjqfu",
+                "UserPoolId": "us-west-2_Q1prXZEEb",
+                "AppClientIDWeb": "58fmublo3s4ue7lod3c0nfkeuk",
+                "AppClientID": "2adpgpn52krpajtp95iocu8i46",
+                "IdentityPoolId": "us-west-2:eff4a95b-bf8f-4fc5-bd73-d60c212d87fd",
+                "IdentityPoolName": "serdachnyhockey72eed7e1_identitypool_72eed7e1__amplify",
+                "UserPoolName": "serdachnyhockey72eed7e1_userpool_72eed7e1"
+            },
+            "lastPushDirHash": "OnMbXk1JUaKR9M2utPBBa/Wv8lc="
+        }
+    },
+    "storage": {
+        "storage": {
+            "service": "S3",
+            "providerPlugin": "awscloudformation",
+            "providerMetadata": {
+                "s3TemplateURL": "https://s3.amazonaws.com/amplify-serdachnyhockey-amplify-130806-deployment/amplify-cfn-templates/storage/s3-cloudformation-template.json",
+                "logicalId": "storagestorage"
+            },
+            "lastPushTimeStamp": "2020-04-10T04:11:05.115Z",
+            "output": {
+                "BucketName": "serdachnybucket130806-amplify",
+                "Region": "us-west-2"
+            },
+            "lastPushDirHash": "PDQx1k1TRpVVSxfotMqyt/RicUM="
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "UserAgent": "aws-amplify/cli",
+    "Version": "0.1.0",
+    "IdentityManager": {
+        "Default": {}
+    },
+    "AppSync": {
+        "Default": {
+            "ApiUrl": "https://u4tf3xbxufbdjez5ox2cbzqliq.appsync-api.us-west-2.amazonaws.com/graphql",
+            "Region": "us-west-2",
+            "AuthMode": "API_KEY",
+            "ApiKey": "da2-t5znxdp4ibbtjoul7nbkpnjmk4",
+            "ClientDatabasePrefix": "amplifyDatasource_API_KEY"
+        }
+    },
+    "CredentialsProvider": {
+        "CognitoIdentity": {
+            "Default": {
+                "PoolId": "us-west-2:eff4a95b-bf8f-4fc5-bd73-d60c212d87fd",
+                "Region": "us-west-2"
+            }
+        }
+    },
+    "CognitoUserPool": {
+        "Default": {
+            "PoolId": "us-west-2_Q1prXZEEb",
+            "AppClientId": "2adpgpn52krpajtp95iocu8i46",
+            "AppClientSecret": "pldr1dkp1khm7bble8avftj2496495ncbvivilr2qsgjd7mjqfu",
+            "Region": "us-west-2"
+        }
+    },
+    "Auth": {
+        "Default": {
+            "authenticationFlowType": "USER_SRP_AUTH"
+        }
+    },
+    "S3TransferUtility": {
+        "Default": {
+            "Bucket": "serdachnybucket130806-amplify",
+            "Region": "us-west-2"
+        }
+    }
+}

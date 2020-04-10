@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="Xdq-NX-wLT">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15509"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="B2l-kr-ddt">
+            <objects>
+                <viewController id="Xdq-NX-wLT" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="SWy-xv-sxP">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VNW-MF-vhh">
+                                <rect key="frame" x="194" y="682" width="82" height="25"/>
+                                <attributedString key="attributedText">
+                                    <fragment content="SPEED">
+                                        <attributes>
+                                            <color key="NSColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                            <font key="NSFont" size="24" name="Copperplate"/>
+                                        </attributes>
+                                    </fragment>
+                                </attributedString>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Q8v-H6-qCA">
+                                <rect key="frame" x="178" y="649" width="70" height="25"/>
+                                <attributedString key="attributedText">
+                                    <fragment content="SKILL">
+                                        <attributes>
+                                            <color key="NSColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                            <font key="NSFont" size="24" name="Copperplate"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                                        </attributes>
+                                    </fragment>
+                                </attributedString>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="khM-jS-YI1">
+                                <rect key="frame" x="206" y="715" width="134" height="25"/>
+                                <attributedString key="attributedText">
+                                    <fragment content="STRENGTH">
+                                        <attributes>
+                                            <color key="NSColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                            <font key="NSFont" size="24" name="Copperplate"/>
+                                        </attributes>
+                                    </fragment>
+                                </attributedString>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="OFF-bu-m06">
+                                <rect key="frame" x="75" y="604" width="133" height="37"/>
+                                <attributedString key="attributedText">
+                                    <fragment content="PURE...">
+                                        <attributes>
+                                            <color key="NSColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                            <font key="NSFont" size="36" name="Copperplate"/>
+                                        </attributes>
+                                    </fragment>
+                                </attributedString>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="logo" translatesAutoresizingMaskIntoConstraints="NO" id="MBx-hB-6W3">
+                                <rect key="frame" x="57" y="145" width="300" height="284"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="VNW-MF-vhh" firstAttribute="top" secondItem="Q8v-H6-qCA" secondAttribute="bottom" constant="8" id="6mV-Kf-GoC"/>
+                            <constraint firstItem="OFF-bu-m06" firstAttribute="leading" secondItem="0gv-Ny-f6I" secondAttribute="leading" constant="75" id="9mt-W4-Xf2"/>
+                            <constraint firstItem="Q8v-H6-qCA" firstAttribute="top" secondItem="OFF-bu-m06" secondAttribute="bottom" constant="8" symbolic="YES" id="C4p-cd-TZt"/>
+                            <constraint firstItem="khM-jS-YI1" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="0gv-Ny-f6I" secondAttribute="leading" id="HX8-0e-Mrj"/>
+                            <constraint firstItem="0gv-Ny-f6I" firstAttribute="trailing" secondItem="Q8v-H6-qCA" secondAttribute="trailing" constant="166" id="Nfi-Tw-xdo"/>
+                            <constraint firstItem="0gv-Ny-f6I" firstAttribute="trailing" secondItem="VNW-MF-vhh" secondAttribute="trailing" constant="138" id="QMv-0f-HH9"/>
+                            <constraint firstItem="0gv-Ny-f6I" firstAttribute="bottom" secondItem="khM-jS-YI1" secondAttribute="bottom" constant="122" id="X3z-sv-d2c"/>
+                            <constraint firstItem="VNW-MF-vhh" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="0gv-Ny-f6I" secondAttribute="leading" id="eje-em-yJJ"/>
+                            <constraint firstItem="0gv-Ny-f6I" firstAttribute="trailing" secondItem="khM-jS-YI1" secondAttribute="trailing" constant="74" id="jk7-Ni-BLW"/>
+                            <constraint firstItem="0gv-Ny-f6I" firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="OFF-bu-m06" secondAttribute="trailing" symbolic="YES" id="mbf-b6-cgW"/>
+                            <constraint firstItem="Q8v-H6-qCA" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="0gv-Ny-f6I" secondAttribute="leading" symbolic="YES" id="oT7-Re-ZwC"/>
+                            <constraint firstItem="khM-jS-YI1" firstAttribute="top" secondItem="VNW-MF-vhh" secondAttribute="bottom" constant="8" id="qR7-Wt-ua0"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="0gv-Ny-f6I"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Lh0-Nr-v46" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="61" y="392"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="logo" width="224" height="224"/>
+    </resources>
+</document>

@@ -1,0 +1,20 @@
+{
+    "amplify": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-serdachnyhockey-amplify-130806-authRole",
+            "UnauthRoleArn": "arn:aws:iam::575670665773:role/amplify-serdachnyhockey-amplify-130806-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::575670665773:role/amplify-serdachnyhockey-amplify-130806-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-serdachnyhockey-amplify-130806-deployment",
+            "UnauthRoleName": "amplify-serdachnyhockey-amplify-130806-unauthRole",
+            "StackName": "amplify-serdachnyhockey-amplify-130806",
+            "StackId": "arn:aws:cloudformation:us-west-2:575670665773:stack/amplify-serdachnyhockey-amplify-130806/26c82ee0-5cb9-11ea-8314-02111715c402",
+            "AmplifyAppId": "dmyfhclzz7yyq"
+        },
+        "categories": {
+            "auth": {
+                "serdachnyhockey72eed7e1": {}
+            }
+        }
+    }
+}
