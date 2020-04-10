@@ -8,10 +8,10 @@
 - [Project Development](#project-development)
   - [Process Documentation](#process-doumentation)
   - [Project Documentation](#project-documentation)
+- [Scrum presentation timelines](#scrum-presentation-timelines)
 - [System Requirements](#system-requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Scrum presentation timelines](#scrum-presentation-timelines)
 - [Credits](#credits)
 
 ## Introduction
@@ -37,6 +37,18 @@ ENSE 400/477 Capstone Project Fall 2019 - Winter 2020, University of Regina
 > [Code Quality Report](ExcecutiveSummaries/CodeQualityReport.pdf): This document provides an overview to application code structures and pattern review referring to The fundamental Code Review Checklist reference.  
 > [Testing Plan Report](ProcessAndProjectDocumentation/ProjectDocumentation/Testing%20Plan.pdf): This document provides an overview to application code structures and pattern review referring to The fundamental Code Review Checklist reference.
 
+## Scrum Presentation Timelines
+- ENSE 400 Capstone Start-up Scrums  
+    - [Student Project Introduction](ProcessAndProjectDocumentation/ProcessDocumentation/Presentations/ENSE400/Spet-27th-Student-Project-Introductions.pdf)  
+    - [Bi-Weekly Scrum #1](ProcessAndProjectDocumentation/ProcessDocumentation/Presentations/ENSE400/Oct-11th-Bi-Weekly-Scrum.pdf)  
+    - [Bi-Weekly Scrum #2](ProcessAndProjectDocumentation/ProcessDocumentation/Presentations/ENSE400/Oct%2025th%20Bi-Weekly%20Scrum.pdf)  
+    - [Mentor Scrum](ProcessAndProjectDocumentation/ProcessDocumentation/Presentations/ENSE400/Nov-22nd-Mentor-Scrum.pdf)  
+- ENSE 477 Capstone Project Scrums
+    - [1st-10-minute Scrum](ProcessAndProjectDocumentation/ProcessDocumentation/Presentations/ENSE477/Jan-14th-Bi-Weekly-Scrum.pdf)  
+    - [2nd-15-minute Scrum](ProcessAndProjectDocumentation/ProcessDocumentation/Presentations/ENSE477/Jan%2028th%20Bi-Weekly%20Scrum.pdf)  
+    - [3rd-15-minute Scrum](ProcessAndProjectDocumentation/ProcessDocumentation/Presentations/ENSE477/Feb-25th-Bi-Weekly-Scrum.pdf)  
+    - [1st-project-bazaar Scrum](ProcessAndProjectDocumentation/ProcessDocumentation/Presentations/ENSE477/Mar-10th-Bi-Weekly-Scrum.pdf)  
+
 ## System Requirements
 - **Software**: [Xcode 11](https://developer.apple.com/xcode/) development tool for MacOS
 - **Language**: [Swift 5.1](https://developer.apple.com/swift/)
@@ -57,18 +69,6 @@ Build Project
 
 ## Usage
 There are four main screens in this app: **Home Page**, **Media Page**, **UserAccount Page**, **Contact Page**.
-
-## Scrum Presentation Timelines
-- ENSE 400 Capstone Start-up Scrums  
-    - [Student Project Introduction](ProcessAndProjectDocumentation/ProcessDocumentation/Presentations/ENSE400/Spet-27th-Student-Project-Introductions.pdf)  
-    - [Bi-Weekly Scrum #1](ProcessAndProjectDocumentation/ProcessDocumentation/Presentations/ENSE400/Oct-11th-Bi-Weekly-Scrum.pdf)  
-    - [Bi-Weekly Scrum #2](ProcessAndProjectDocumentation/ProcessDocumentation/Presentations/ENSE400/Oct%2025th%20Bi-Weekly%20Scrum.pdf)  
-    - [Mentor Scrum](ProcessAndProjectDocumentation/ProcessDocumentation/Presentations/ENSE400/Nov-22nd-Mentor-Scrum.pdf)  
-- ENSE 477 Capstone Project Scrums
-    - [1st-10-minute Scrum](ProcessAndProjectDocumentation/ProcessDocumentation/Presentations/ENSE477/Jan-14th-Bi-Weekly-Scrum.pdf)  
-    - [2nd-15-minute Scrum](ProcessAndProjectDocumentation/ProcessDocumentation/Presentations/ENSE477/Jan%2028th%20Bi-Weekly%20Scrum.pdf)  
-    - [3rd-15-minute Scrum](ProcessAndProjectDocumentation/ProcessDocumentation/Presentations/ENSE477/Feb-25th-Bi-Weekly-Scrum.pdf)  
-    - [1st-project-bazaar Scrum](ProcessAndProjectDocumentation/ProcessDocumentation/Presentations/ENSE477/Mar-10th-Bi-Weekly-Scrum.pdf)  
  
 ## Credits
 Xcode MacOS  
