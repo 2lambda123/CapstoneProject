@@ -7,9 +7,9 @@
 - [Video Links](#video-links)
 - [Project Development](#project-development)
   - [Process Documentation](#process-doumentation)
+    - [System Requirements](#system-requirements)
   - [Project Documentation](#project-documentation)
 - [Scrum presentation timelines](#scrum-presentation-timelines)
-- [System Requirements](#system-requirements)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
@@ -30,7 +30,6 @@ ENSE 400/477 Capstone Project Fall 2019 - Winter 2020, University of Regina
 > [Project Management Boards](ProcessAndProjectDocumentation/ProcessDocumentation/Project-Managment-Boards): Team daily schedule purpose over the development.  
 > [User Story Maps](ProcessAndProjectDocumentation/ProcessDocumentation/User-Story-Maps): Each screen design process detail.  
 > [MVP Descriptions](ProcessAndProjectDocumentation/ProcessDocumentation/MVP_Descriptions.pdf): Overview of minimal viable product.
-
 #### Scrum Presentation Timelines
 - ENSE 400 Capstone Start-up Scrums  
     - [Student Project Introduction](ProcessAndProjectDocumentation/ProcessDocumentation/Presentations/ENSE400/Spet-27th-Student-Project-Introductions.pdf)  
