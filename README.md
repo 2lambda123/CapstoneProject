@@ -6,7 +6,7 @@
 - [Introduction](#introduction)
 - [Video Links](#video-links)
 - [Project Development](#project-development)
-  - [Process Documentation](#process-doumentation)
+  - [Process Documentation](#Process-documentation)
     - [Scrum Presentation Timelines](#scrum-presentation-timelines)
   - [Project Documentation](#project-documentation)
 - [System Requirements](#system-requirements)
