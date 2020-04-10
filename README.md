@@ -14,6 +14,7 @@
 - [System Requirements](#system-requirements)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Contributors](#contributors)
 - [Credits](#credits)
 
 ## Introduction
@@ -29,7 +30,7 @@ ENSE 400/477 Capstone Project Fall 2019 - Winter 2020, University of Regina
 - [Demo Video](https://www.markdownguide.org/cheat-sheet/): In the product demo, we show the general design and what the project workflow looks like.
 
 ## Poster link
-> [Capstone Project Poster Link](images/poster.png): Find our project poster here.
+- [Capstone Project Poster Link](images/poster.png)
 
 ## Project Code
 > [Project Code](ProjectCode/SerdachnyHockey): Find all our project code here.
@@ -82,7 +83,10 @@ Build Project
 There are four main screens in this app: **Home Page**, **Media Page**, **UserAccount Page**, **Contact Page**.
 
 ![alt-text](images/home-screen.png "Home Screen") ![alt-text](images/media-screen.png "Media Screen") ![alt-text](images/user-account-screen.png "UserAccount Screen") ![alt-text](images/contact-screen.png "Contact Page")
- 
+
+## Contributors
+Other two authors of this project:
+:octocat: [Jiahao Li](https://github.com/JiahaoLiENSE) :octocat: [Jinkai Fan](https://github.com/jkfan270)
 ## Credits
 #### Speacial Thanks:
 - Dr. Timothy Maciag
