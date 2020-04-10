@@ -1,6 +1,6 @@
 ## Serdachny Hockey iOS Mobile App
 
-![alt text](img/iPhone-XS-Mockup-new.jpg "Serdachny Hockey IOS Moblie App")
+![alt text](images/iPhone-XS-Mockup-new.jpg "Serdachny Hockey IOS Moblie App")
 
 ## Introduction
 ENSE 400/477 Capstone Project Fall 2019 - Winter 2020, University of Regina
@@ -23,7 +23,7 @@ ENSE 400/477 Capstone Project Fall 2019 - Winter 2020, University of Regina
 - [Credits](#credits)
 
 ## Demo screenshot
-![alt-text](img/project-demo.gif "Demo GIF")
+![alt-text](images/project-demo.gif "Demo GIF")
 
 ## Requirements
 - **Software**: [Xcode 11](https://developer.apple.com/xcode/) development tool for MacOS
