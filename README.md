@@ -29,15 +29,9 @@ ENSE 400/477 Capstone Project Fall 2019 - Winter 2020, University of Regina
 ### Process Documentation
 > [Project Management Boards](ProcessAndProjectDocumentation/ProcessDocumentation/Project-Managment-Boards): Team daily schedule purpose over the development.  
 > [User Story Maps](ProcessAndProjectDocumentation/ProcessDocumentation/User-Story-Maps): Each screen design process detail.  
-> [MVP Descriptions](ProcessAndProjectDocumentation/ProcessDocumentation/MVP_Descriptions.pdf): Overview of minimal viable product.  
+> [MVP Descriptions](ProcessAndProjectDocumentation/ProcessDocumentation/MVP_Descriptions.pdf): Overview of minimal viable product.
 
-### Project Documentation
-> [Requirements Document](ProcessAndProjectDocumentation/ProjectDocumentation/Requirements%20Document.pdf): This document is overview of the system design and the breakdown of the design decisions.  
-> [Project Experience Report](ExcecutiveSummaries/ProjectExperienceReport.pdf): This document provides an overview of the project experience and group review, a list of possible functionality improvement strategies.  
-> [Code Quality Report](ExcecutiveSummaries/CodeQualityReport.pdf): This document provides an overview to application code structures and pattern review referring to The fundamental Code Review Checklist reference.  
-> [Testing Plan Report](ProcessAndProjectDocumentation/ProjectDocumentation/Testing%20Plan.pdf): This document provides an overview to application code structures and pattern review referring to The fundamental Code Review Checklist reference.
-
-## Scrum Presentation Timelines
+#### Scrum Presentation Timelines
 - ENSE 400 Capstone Start-up Scrums  
     - [Student Project Introduction](ProcessAndProjectDocumentation/ProcessDocumentation/Presentations/ENSE400/Spet-27th-Student-Project-Introductions.pdf)  
     - [Bi-Weekly Scrum #1](ProcessAndProjectDocumentation/ProcessDocumentation/Presentations/ENSE400/Oct-11th-Bi-Weekly-Scrum.pdf)  
@@ -47,8 +41,14 @@ ENSE 400/477 Capstone Project Fall 2019 - Winter 2020, University of Regina
     - [1st-10-minute Scrum](ProcessAndProjectDocumentation/ProcessDocumentation/Presentations/ENSE477/Jan-14th-Bi-Weekly-Scrum.pdf)  
     - [2nd-15-minute Scrum](ProcessAndProjectDocumentation/ProcessDocumentation/Presentations/ENSE477/Jan%2028th%20Bi-Weekly%20Scrum.pdf)  
     - [3rd-15-minute Scrum](ProcessAndProjectDocumentation/ProcessDocumentation/Presentations/ENSE477/Feb-25th-Bi-Weekly-Scrum.pdf)  
-    - [1st-project-bazaar Scrum](ProcessAndProjectDocumentation/ProcessDocumentation/Presentations/ENSE477/Mar-10th-Bi-Weekly-Scrum.pdf)  
+    - [1st-project-bazaar Scrum](ProcessAndProjectDocumentation/ProcessDocumentation/Presentations/ENSE477/Mar-10th-Bi-Weekly-Scrum.pdf) 
 
+### Project Documentation
+> [Requirements Document](ProcessAndProjectDocumentation/ProjectDocumentation/Requirements%20Document.pdf): This document is overview of the system design and the breakdown of the design decisions.  
+> [Project Experience Report](ExcecutiveSummaries/ProjectExperienceReport.pdf): This document provides an overview of the project experience and group review, a list of possible functionality improvement strategies.  
+> [Code Quality Report](ExcecutiveSummaries/CodeQualityReport.pdf): This document provides an overview to application code structures and pattern review referring to The fundamental Code Review Checklist reference.  
+> [Testing Plan Report](ProcessAndProjectDocumentation/ProjectDocumentation/Testing%20Plan.pdf): This document provides an overview to application code structures and pattern review referring to The fundamental Code Review Checklist reference.
+ 
 ## System Requirements
 - **Software**: [Xcode 11](https://developer.apple.com/xcode/) development tool for MacOS
 - **Language**: [Swift 5.1](https://developer.apple.com/swift/)
