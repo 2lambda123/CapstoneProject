@@ -1,6 +1,6 @@
 ## Serdachny Hockey iOS Mobile App
 
-![alt text](images/poster.png "Serdachny Hockey IOS Moblie App")
+![alt text](images/iPhone-XS-Mockup-new.jpg "Serdachny Hockey IOS Moblie App")
 
 ## Table of contents
 - [Introduction](#introduction)
@@ -29,7 +29,7 @@ ENSE 400/477 Capstone Project Fall 2019 - Winter 2020, University of Regina
 - [Demo Video](https://www.markdownguide.org/cheat-sheet/): In the product demo, we show the general design and what the project workflow looks like.
 
 ## Poster link
-[Capstone Project Poster Link](images/)
+- [Capstone Project Poster Link](images/poster.pdf)
 
 ## Project Code
 > [Project Code](ProjectCode/SerdachnyHockey): Find all our project code here.
