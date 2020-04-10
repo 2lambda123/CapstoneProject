@@ -78,7 +78,7 @@ There are four main screens in this app: **Home Page**, **Media Page**, **UserAc
 ## Credits
 #### Speacial Thanks:
 - Dr. Timothy Maciag
-  -Capstone professor
+  - Capstone professor, Alot of addionial help provided
 - Steve Serdachny
   - Owner/ Operator of Serdachny Hockey
 
