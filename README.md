@@ -27,7 +27,7 @@ ENSE 400/477 Capstone Project Fall 2019 - Winter 2020, University of Regina
 
 ## Video links
 - [Video Project Presentation](https://www.markdownguide.org/cheat-sheet/): In this video presentation, our team delivers a comprehensive demonstration of our problem and design solution include app features and functionality for product deployment.
-- [Demo Video](https://www.markdownguide.org/cheat-sheet/): In the product demo, we show the general design and what the project workflow looks like.
+- [Demo Video](https://youtu.be/25Irwme3Vfg): In the product demo, we show the general design and what the project workflow looks like.
 
 ## Poster link
 - [Capstone Project Poster Link](images/poster.png)
