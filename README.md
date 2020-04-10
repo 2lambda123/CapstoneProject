@@ -26,7 +26,7 @@ ENSE 400/477 Capstone Project Fall 2019 - Winter 2020, University of Regina
 ***
 
 ## Video links
-- [Video Project Presentation](https://www.markdownguide.org/cheat-sheet/): In this video presentation, our team delivers a comprehensive demonstration of our problem and design solution include app features and functionality for product deployment.
+- [Video Project Presentation](https://youtu.be/ZGggPRI1MRQ): In this video presentation, our team delivers a comprehensive demonstration of our problem and design solution include app features and functionality for product deployment.
 - [Demo Video](https://youtu.be/25Irwme3Vfg): In the product demo, we show the general design and what the project workflow looks like.
 
 ## Poster link
@@ -85,8 +85,8 @@ There are four main screens in this app: **Home Page**, **Media Page**, **UserAc
 ![alt-text](images/home-screen.png "Home Screen") ![alt-text](images/media-screen.png "Media Screen") ![alt-text](images/user-account-screen.png "UserAccount Screen") ![alt-text](images/contact-screen.png "Contact Page")
 
 ## Contributors
-Other two authors of this project:  
-:octocat: [Jiahao Li](https://github.com/JiahaoLiENSE)      :octocat: [Jinkai Fan](https://github.com/jkfan270)
+Authors of this project:  
+:octocat: [Mckenzie Busenius](https://github.com/macbusenius) :octocat: [Jiahao Li](https://github.com/JiahaoLiENSE)      :octocat: [Jinkai Fan](https://github.com/jkfan270)
 ## Credits
 #### Speacial Thanks:
 - Dr. Timothy Maciag
