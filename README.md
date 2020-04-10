@@ -5,12 +5,12 @@
 ## Table of contents
 - [Introduction](#introduction)
 - [Video Links](#video-links)
-- [Requirements](#requirements)
+- [Project Development](#project-development)
+  - [Process Documentation](#process-doumentation)
+  - [Project Documentation](#project-documentation)
+- [System Requirements](#system-requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Development](#development)
-  - [Team meeting notes](#team-meeting-notes)
-  - [Documentations](#documentations)
 - [Scrum presentation timelines](#scrum-presentation-timelines)
 - [Credits](#credits)
 
@@ -25,7 +25,19 @@ ENSE 400/477 Capstone Project Fall 2019 - Winter 2020, University of Regina
 - [Video Project Presentation](https://www.markdownguide.org/cheat-sheet/): In this video presentation, it has a product demo part and a presentation part. In the product demo part, we show how the general design and workflow looks like. In the presentation part, our team delivers a comprehensive demonstration of our team’s design problem/idea and design solution (features and functionality)/product deployment.
 - [Demo Video](https://www.markdownguide.org/cheat-sheet/): Complete app demo video link.
 
-## Requirements
+## Project Development
+### Process Documentation
+> [Project Management Boards](ProcessAndProjectDocumentation/ProcessDocumentation/Project-Managment-Boards): Team daily schedule purpose over the development.  
+> [User Story Maps](ProcessAndProjectDocumentation/ProcessDocumentation/User-Story-Maps): Each screen design process detail.  
+> [MVP Descriptions](ProcessAndProjectDocumentation/ProcessDocumentation/MVP_Descriptions.pdf): Overview of minimal viable product.  
+
+### Project Documentation
+> [Requirements Document](ProcessAndProjectDocumentation/ProjectDocumentation/Requirements%20Document.pdf): This document is overview of the system design and the breakdown of the design decisions.  
+> [Project Experience Report](ExcecutiveSummaries/ProjectExperienceReport.pdf): This document provides an overview of the project experience and group review, a list of possible functionality improvement strategies.  
+> [Code Quality Report](ExcecutiveSummaries/CodeQualityReport.pdf): This document provides an overview to application code structures and pattern review referring to The fundamental Code Review Checklist reference.  
+> [Testing Plan Report](ProcessAndProjectDocumentation/ProjectDocumentation/Testing%20Plan.pdf): This document provides an overview to application code structures and pattern review referring to The fundamental Code Review Checklist reference.
+
+## System Requirements
 - **Software**: [Xcode 11](https://developer.apple.com/xcode/) development tool for MacOS
 - **Language**: [Swift 5.1](https://developer.apple.com/swift/)
 - **Backend Configuration**: [AWS Amplify Framework](https://aws-amplify.github.io/docs/sdk/ios/start?ref=amplify-iOS-btn) for iOS app development and [AWS S3 Services](https://aws.amazon.com/s3/) for app data storage
@@ -46,19 +58,7 @@ Build Project
 ## Usage
 There are four main screens in this app: **Home Page**, **Media Page**, **UserAccount Page**, **Contact Page**.
 
-## Development
-### Project management
-> [Project Management Boards](ProcessAndProjectDocumentation/ProcessDocumentation/Project-Managment-Boards): Team daily schedule purpose over the development.  
-> [User Story Maps](ProcessAndProjectDocumentation/ProcessDocumentation/User-Story-Maps): Each screen design process detail.
-
-### Documentations
-> [MVP1 Descriptions](ProcessAndProjectDocumentation/ProcessDocumentation/MVP_Descriptions.pdf): Overview of minimal viable product.  
-> [Requirements Document](ProcessAndProjectDocumentation/ProjectDocumentation/Requirements%20Document.pdf): This document is overview of the system design and the breakdown of the design decisions.  
-> [Project Experience Report](ExcecutiveSummaries/ProjectExperienceReport.pdf): This document provides an overview of the project experience and group review, a list of possible functionality improvement strategies.  
-> [Code Quality Report](ExcecutiveSummaries/CodeQualityReport.pdf): This document provides an overview to application code structures and pattern review referring to The fundamental Code Review Checklist reference.  
-> [Testing Plan Report](ProcessAndProjectDocumentation/ProjectDocumentation/Testing%20Plan.pdf): This document provides an overview to application code structures and pattern review referring to The fundamental Code Review Checklist reference.
-
-## Scrum presentation timelines
+## Scrum Presentation Timelines
 - ENSE 400 Capstone Start-up Scrums  
     - [Student Project Introduction](ProcessAndProjectDocumentation/ProcessDocumentation/Presentations/ENSE400/Spet-27th-Student-Project-Introductions.pdf)  
     - [Bi-Weekly Scrum #1](ProcessAndProjectDocumentation/ProcessDocumentation/Presentations/ENSE400/Oct-11th-Bi-Weekly-Scrum.pdf)  
