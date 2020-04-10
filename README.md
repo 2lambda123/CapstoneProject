@@ -38,7 +38,7 @@ ENSE 400/477 Capstone Project Fall 2019 - Winter 2020, University of Regina
 ## Project Development
 #### Process Documentation
 > [Project Management Boards](ProcessAndProjectDocumentation/ProcessDocumentation/Project-Managment-Boards): Team daily schedule purpose over the development.  
-> [User Story Maps](ProcessAndProjectDocumentation/ProcessDocumentation/User-Story-Maps): Each screen design process detail.
+> [User Story Maps](ProcessAndProjectDocumentation/ProcessDocumentation/User-Story-Maps): Each screen design process detail.  
 
 #### Project Documentation
 > [Requirements Document](ProcessAndProjectDocumentation/ProjectDocumentation/RequirementsDoc.pdf): This document is overview of the system design and the breakdown of the design decisions.  
