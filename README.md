@@ -17,6 +17,9 @@
 ## Introduction
 ENSE 400/477 Capstone Project Fall 2019 - Winter 2020, University of Regina
 - **Team Name**: Prime Software
+- ** **
+- **Team Members**: Jinkai Fan, Jiahao Li, McKenzie Busenius
+- ** **
 - **Problem Statement**: We are attempting to develop an iOS-based mobile management platform that will combine media and marketing capabilities including free development videos and a quick redirect to our customers’ existing online registration content management system that is a web-based application. In addition, we are attempting to upgrade a hockey training system to a dynamic user account configuration including capturing, storing, and modifying video content all within the application.
 - **Project Vision**: Our project vision is to apply the Minimum Viable Product model coupled with an agile approach in software engineering. This is guiding us to provide functional software at every point in project deliverables.  We are carefully designing and implementing the ability to scale as well as keeping the consideration of security a top priority.
 ***
