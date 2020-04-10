@@ -48,7 +48,7 @@ There are four main screens in this app: **Home Page**, **Media Page**, **UserAc
 
 ## Development
 ### Project management
-> [Project Management Boards](ProcessAndProjectDocumentation/ProcessDocumentation/ProjectManagmentBoards)
+> [Project Management Boards](ProcessAndProjectDocumentation/ProcessDocumentation/Project-Managment-Boards)
 
 ### Documentations
 
