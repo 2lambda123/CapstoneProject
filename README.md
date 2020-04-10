@@ -1,6 +1,6 @@
 ## Serdachny Hockey iOS Mobile App
 
-![alt text](images/iPhone-XS-Mockup-new.jpg "Serdachny Hockey IOS Moblie App")
+![alt text](images/poster.jpg "Serdachny Hockey IOS Moblie App")
 
 ## Table of contents
 - [Introduction](#introduction)
