@@ -4,7 +4,7 @@
 
 ## Table of contents
 - [Introduction](#introduction)
-- [Video Links](#video Links)
+- [Video Links](#video-links)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -21,7 +21,7 @@ ENSE 400/477 Capstone Project Fall 2019 - Winter 2020, University of Regina
 - **Project Vision**: Our project vision is to apply the Minimum Viable Product model coupled with an agile approach in software engineering. This is guiding us to provide functional software at every point in project deliverables.  We are carefully designing and implementing the ability to scale as well as keeping the consideration of security a top priority.
 ***
 
-## Video links:
+## Video links
 - [Video Project Presentation](https://www.markdownguide.org/cheat-sheet/): In this video presentation, it has a product demo part and a presentation part. In the product demo part, we show how the general design and workflow looks like. In the presentation part, our team delivers a comprehensive demonstration of our team’s design problem/idea and design solution (features and functionality)/product deployment.
 - [Demo Video](https://www.markdownguide.org/cheat-sheet/): Complete app demo video link.
 
