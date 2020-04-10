@@ -5,6 +5,7 @@
 ## Table of contents
 - [Introduction](#introduction)
 - [Video Links](#video-links)
+- [Poster Link](#poster-link)
 - [Project Code](#project-code)
 - [Project Development](#project-development)
   - [Process Documentation](#Process-documentation)
@@ -26,6 +27,9 @@ ENSE 400/477 Capstone Project Fall 2019 - Winter 2020, University of Regina
 ## Video links
 - [Video Project Presentation](https://www.markdownguide.org/cheat-sheet/): In this video presentation, our team delivers a comprehensive demonstration of our problem and design solution include app features and functionality for product deployment.
 - [Demo Video](https://www.markdownguide.org/cheat-sheet/): In the product demo, we show the general design and what the project workflow looks like.
+
+## Poster link
+[Capstone Project Poster Link](images/)
 
 ## Project Code
 > [Project Code](ProjectCode/SerdachnyHockey): Find all our project code here.
