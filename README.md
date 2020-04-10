@@ -40,7 +40,7 @@ open SerdachnyHockey.xcworkspace/
 ```
 After opening the project:
 ```sh
-click Build
+Build Project
 ```
 
 ## Usage
@@ -48,9 +48,15 @@ There are four main screens in this app: **Home Page**, **Media Page**, **UserAc
 
 ## Development
 ### Project management
-> [Project Management Boards](ProcessAndProjectDocumentation/ProcessDocumentation/Project-Managment-Boards)
+> [Project Management Boards](ProcessAndProjectDocumentation/ProcessDocumentation/Project-Managment-Boards): Team daily schedule purpose over the development.  
+> [User Story Maps](ProcessAndProjectDocumentation/ProcessDocumentation/User-Story-Maps): Each screen design process detail.
 
 ### Documentations
+> [MVP1 Descriptions](ProcessAndProjectDocumentation/ProcessDocumentation/MVP_Descriptions.pdf): Overview of minimal viable product.  
+> [Requirements Document](ProcessAndProjectDocumentation/ProjectDocumentation/Requirements-Document.docx): This document is overview of the system design and the breakdown of the design decisions.  
+> [Project Experience Report](ExcecutiveSummaries/ProjectExperienceReport.pdf): This document provides an overview of the project experience and group review, a list of possible functionality improvement strategies.  
+> [Code Quality Report](ExcecutiveSummaries/CodeQualityReport.pdf): This document provides an overview to application code structures and pattern review referring to The fundamental Code Review Checklist reference.  
+> [Testing Plan Report](ProcessAndProjectDocumentation/ProjectDocumentation/Testing-Plan.docx): This document provides an overview to application code structures and pattern review referring to The fundamental Code Review Checklist reference.
 
 ## Scrum presentation timelines
 
