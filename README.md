@@ -1,4 +1,6 @@
-## Serdachny Hockey iOS Mobile App
+<h1 align="center" style="font-size:100px" >
+  Serdachny Hockey iOS Mobile App
+</h1>
 
 ![alt text](images/iPhone-XS-Mockup-new.jpg "Serdachny Hockey IOS Moblie App")
 
